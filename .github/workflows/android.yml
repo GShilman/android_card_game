@@ -17,5 +17,7 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 1.8
+    - name: Make gradlew executable
+      run: chmod +x ./android_app/gradlew
     - name: Build with Gradle
       run: ./android_app/gradlew build
