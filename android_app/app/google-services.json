@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020319459186",
+    "firebase_url": "https://generic-card-game.firebaseio.com",
+    "project_id": "generic-card-game",
+    "storage_bucket": "generic-card-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020319459186:android:8ce3dfa9e98bde9f9e9feb",
+        "android_client_info": {
+          "package_name": "com.shilman.guy.cardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020319459186-rnt3815k4lemq0glunts73kuuaetvrvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXLULsB8TtmOcTVcXwVl0GmAQgl1HMeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020319459186-rnt3815k4lemq0glunts73kuuaetvrvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
